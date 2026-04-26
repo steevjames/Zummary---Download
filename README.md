@@ -112,4 +112,4 @@ Zummary helps turn scattered work activity into a useful daily narrative:
 
 
 # Download
-The app is available to download for Mac. The file 'Zummary.app' can be downloaded from this reporitory and run in MacOS.
+The app is available to download for Mac. The file 'Zummary.app' can be downloaded from releases tab.
