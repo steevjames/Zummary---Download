@@ -1,4 +1,4 @@
-# <img src="Sources/Zummary/Resources/AppIcon.iconset/icon_512x512.png" alt="Zummary logo" width="64" height="64" valign="middle" /> Zummary
+# <img src="docs/icon.png" alt="Zummary logo" width="64" height="64" valign="middle" /> Zummary
 
 **Work intelligence for your day.**
 
